@@ -3,15 +3,15 @@ This is my project for the final period of deci scholarship
 
 This project has those files 
 --
+<ul>
+  <li><a href="#App">App</a></li>
+  <li><a href="#Website">Website</a></li>
+  <li><a href="#Presntation">Presntation</a></li>
+  <li><a href="#Doc">Doc File</a></li>
+  <li><a href="#Cvs">Cvs File</a></li>
+</ul>
 
-- App
-- Website
-- Presntation
-- Doc File
-- Cvs File
-
-
-## App 
+<h2 id="App">App</h2>
 
 <details>
 <summary>Description</summary>
@@ -42,3 +42,27 @@ This app i made an adventure game that has many pros like
   <a href="App/Adventure-Game.apk">The App </a>
 </details>
 
+
+<h3 id="Website">Website</h3>
+
+<details>
+<summary>Description</summary>
+<br>
+This was my dream from being a kid i always wanted to make a portfilo website for me and i took the oprtunity from this project and with some research and learing css and more depth html i made my own portfilo and now with all these experince i want to be a front-end developer
+</details>
+
+<details>
+<summary>Website Pros</summary>
+<br>
+There are so many pros i will mintion some
+  <ul>
+   <li>Present my work for all</li>
+   <li>Made Contact with me easier</li>
+   <li>Made me on the internt(casue the next step is to make google or any CEO know me:)</li>
+  </ul>
+</details>
+
+<details>
+<summary>Screen Shots</summary>
+<br>
+</details>
