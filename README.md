@@ -84,7 +84,7 @@ this is a presntation about hard computer fundamentals i managed to explain it a
 <br>
 <a href="https://docs.google.com/presentation/d/1n2LBlwMlVYKpr931mGWhPZdJI_v7dCqmhFa7iHaJ1ik/edit?usp=sharing">Presentation-google-slides</a>
   <br>
-  <a href="presentation.pptx">Presentation-real-file</a>
+  <a href="Coumpter Science Fundamentals.pptx">Presentation-real-file</a>
 </details>
 
 <details>
