@@ -40,6 +40,8 @@ This app i made an adventure game that has many pros like
 <summary>Apk File</summary>
 <br>
   <a href="App/Adventure-Game.apk">The App </a>
+  <br>
+  <a href="https://x.thunkable.com/copy/8f52e6f80a2b56fcac72e368e74f06d0">The Code</a>
 </details>
 
 
@@ -66,3 +68,27 @@ There are so many pros i will mintion some
 <summary>Screen Shots</summary>
 <br>
 </details>
+
+<h4 id="Website">Presntation</h4>
+
+<details>
+<summary>Description</summary>
+<br>
+this is a presntation about hard computer fundamentals i managed to explain it and i learned a lot from this presntation about how to present something and a lot of presntation skills
+</details>
+
+<details>
+<summary>The Presentation</summary>
+<br>
+<a href="https://docs.google.com/presentation/d/1n2LBlwMlVYKpr931mGWhPZdJI_v7dCqmhFa7iHaJ1ik/edit?usp=sharing">Presentation</a>
+</details>
+
+<details>
+<summary>Screen Shots</summary>
+<br>
+  
+</details>
+
+
+
+
