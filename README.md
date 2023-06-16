@@ -46,6 +46,7 @@ This app i made an adventure game that has many pros like
 
 
 <h3 id="Website">Website</h3>
+<hr>
 
 <details>
 <summary>Description</summary>
@@ -69,7 +70,8 @@ There are so many pros i will mintion some
 <br>
 </details>
 
-<h4 id="Website">Presntation</h4>
+<h4 id="Presntation">Presntation</h4>
+<hr>
 
 <details>
 <summary>Description</summary>
