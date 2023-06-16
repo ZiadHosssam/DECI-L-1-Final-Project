@@ -86,7 +86,9 @@ this is a presntation about hard computer fundamentals i managed to explain it a
 <details>
 <summary>Screen Shots</summary>
 <br>
-  
+<img src="Images/Presentation/Screen-1.png">  
+<img src="Images/Presentation/Screen-2.png">
+<img src="Images/Presentation/Screen-3.png">
 </details>
 
 
