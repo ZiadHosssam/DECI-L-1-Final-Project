@@ -82,7 +82,8 @@ this is a presntation about hard computer fundamentals i managed to explain it a
 <details>
 <summary>The Presentation</summary>
 <br>
-<a href="https://docs.google.com/presentation/d/1n2LBlwMlVYKpr931mGWhPZdJI_v7dCqmhFa7iHaJ1ik/edit?usp=sharing">Presentation</a>
+<a href="https://docs.google.com/presentation/d/1n2LBlwMlVYKpr931mGWhPZdJI_v7dCqmhFa7iHaJ1ik/edit?usp=sharing">Presentation-google-slides</a>
+  <a href="presentation.pptx">Presentation-real-file</a>
 </details>
 
 <details>
@@ -91,6 +92,24 @@ this is a presntation about hard computer fundamentals i managed to explain it a
 <img src="Images/Presentation/Screen-1.png">  
 <img src="Images/Presentation/Screen-2.png">
 <img src="Images/Presentation/Screen-3.png">
+</details>
+
+<h5 id="Doc">Doc File</h5>
+<hr>
+
+<details>
+<summary>Description</summary>
+<br>
+  <p>
+    In this document, I will delve into the specifications and features of my dream MacBook Pro, a laptop that combines sleek design, impressive performance, and seamless user experience. I will provide detailed descriptions of each component, explaining their roles and highlighting their significance in creating an exceptional computing device. Join me on this exploration of my dream MacBook Pro and discover the reasons behind my choices.
+  </p>
+</details>
+
+<details>
+<summary>Doc file</summary>
+<br>
+ <a href="https://docs.google.com/document/d/1Uk-6Ev0J9BmlDx58GHIQR7M6FTH0BkbL3IaHxLZCYT8/edit?usp=sharing">Doc File-google-docs</a>
+   <a href="My-dream-pc.docx">Doc File-real-file</a>
 </details>
 
 
