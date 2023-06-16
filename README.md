@@ -83,6 +83,7 @@ this is a presntation about hard computer fundamentals i managed to explain it a
 <summary>The Presentation</summary>
 <br>
 <a href="https://docs.google.com/presentation/d/1n2LBlwMlVYKpr931mGWhPZdJI_v7dCqmhFa7iHaJ1ik/edit?usp=sharing">Presentation-google-slides</a>
+  <br>
   <a href="presentation.pptx">Presentation-real-file</a>
 </details>
 
@@ -109,6 +110,7 @@ this is a presntation about hard computer fundamentals i managed to explain it a
 <summary>Doc file</summary>
 <br>
  <a href="https://docs.google.com/document/d/1Uk-6Ev0J9BmlDx58GHIQR7M6FTH0BkbL3IaHxLZCYT8/edit?usp=sharing">Doc File-google-docs</a>
+  <br>
    <a href="My-dream-pc.docx">Doc File-real-file</a>
 </details>
 
