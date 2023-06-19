@@ -61,13 +61,15 @@ There are so many pros i will mintion some
   <ul>
    <li>Present my work for all</li>
    <li>Made Contact with me easier</li>
-   <li>Made me on the internt(casue the next step is to make google or any CEO know me:)</li>
+   <li>Made me on the ineternt (casue the next step is to make google or any CEO know me:)</li>
   </ul>
 </details>
 
 <details>
 <summary>Screen Shots</summary>
 <br>
+<img alt="screen-1" src="Images/Website/Screen-1.png">
+<img alt="screen-2" src="Images/Website/Screen-2.png">
 </details>
 
 <h4 id="Presntation">Presntation</h4>
