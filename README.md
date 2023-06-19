@@ -115,5 +115,24 @@ this is a presntation about hard computer fundamentals i managed to explain it a
 </details>
 
 
+<h6 id="Cvs">Cvs File</h6>
+<hr>
+
+<details>
+<summary>Overview</summary>
+ <br>
+  <p>
+    The provided CSV file offers a comprehensive rating system for various fields of technology. The file contains valuable insights and evaluations based on specific criteria, allowing users to assess the performance and effectiveness of different technological domains. With a structured format, the CSV file presents a range of fields, such as artificial intelligence, cybersecurity, telecommunications, software development, and more. Each field is assigned a rating, which provides an indication of its overall quality and proficiency. This CSV file serves as a valuable resource for individuals and organizations seeking to gain a better understanding of the technology landscape and make informed decisions based on the provided ratings.
+  </p>
+</details>
+
+<details>
+<summary>Cvs file</summary>
+<br>
+ <a href="[https://docs.google.com/document/d/1Uk-6Ev0J9BmlDx58GHIQR7M6FTH0BkbL3IaHxLZCYT8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/e/2PACX-1vRE6ICeL_csPBTLx0HuiTc3vHbv8GvnDWCsu6kQpHALcaj_DdS9uuQSN0zn9w5XPTGZJvgXmOjIhTUh/pub?output=ods)">Cvs File-google-Sheets</a>
+  <br>
+   <a href="Computing-friends.ods">Cvs File-real-file</a>
+</details>
+
 
 
