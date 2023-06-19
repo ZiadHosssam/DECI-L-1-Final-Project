@@ -129,9 +129,9 @@ this is a presntation about hard computer fundamentals i managed to explain it a
 <details>
 <summary>Cvs file</summary>
 <br>
- <a href="[https://docs.google.com/document/d/1Uk-6Ev0J9BmlDx58GHIQR7M6FTH0BkbL3IaHxLZCYT8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/e/2PACX-1vRE6ICeL_csPBTLx0HuiTc3vHbv8GvnDWCsu6kQpHALcaj_DdS9uuQSN0zn9w5XPTGZJvgXmOjIhTUh/pub?output=ods)">Cvs File-google-Sheets</a>
+ <a href="https://docs.google.com/spreadsheets/d/1exFNkJijSpD4ecrzR8IteI-s-0y5ayGK6HoVxTPtRyY/edit?usp=sharing">Cvs File-google-Sheets</a>
   <br>
-   <a href="Computing-friends.ods">Cvs File-real-file</a>
+   <a href="Computing friends.ods">Cvs File-real-file</a>
 </details>
 
 
