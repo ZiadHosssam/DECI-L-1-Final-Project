@@ -37,7 +37,7 @@ This app i made an adventure game that has many pros like
 </details>
 
 <details>
-<summary>Apk File</summary>
+<summary>The App</summary>
 <br>
   <a href="App/Adventure-Game.apk">The App </a>
   <br>
