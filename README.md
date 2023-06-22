@@ -51,33 +51,14 @@ This app i made an adventure game that has many pros like
 <details>
 <summary>Description</summary>
 <br>
-This was my dream from being a kid i always wanted to make a portfilo website for me and i took the oprtunity from this project and with some research and learing css and more depth html i made my own portfilo and now with all these experince i want to be a front-end developer
+cause of the porject i changed the website was a website that has three pharagrahps.
 </details>
 
-<details>
-<summary>Website Pros</summary>
-<br>
-There are so many pros i will mintion some
-  <ul>
-   <li>Present my work for all</li>
-   <li>Made Contact with me easier</li>
-   <li>Made me on the ineternt (casue the next step is to make google or any CEO know me:)</li>
-  </ul>
-</details>
-
-<details>
-<summary>Screen Shots</summary>
-<br>
-<img alt="screen-1" src="Images/Website/Screen-1.png">
-<img alt="screen-2" src="Images/Website/Screen-2.png">
-</details>
 
 <details>
 <summary>The Website</summary>
 <br>
-  <a href="https://www.ziad-h-ramadona.web.app">The Website-live</a>
-  <br>
-  <a href="https://www.github.com/ziadhosssam/my-portfilo">The website-code-repo</a>
+  <a href="Website/index.html">The website</a>
 </details>
 
 <h4 id="Presntation">Presntation</h4>
